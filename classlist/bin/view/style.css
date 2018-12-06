@@ -1,0 +1,33 @@
+.regione {
+	-fx-background-color: #FF9800;
+}
+
+.button {
+	-fx-background-color: #FF9800;
+}
+
+.usernameField {
+	-fx-background-radius: 0;
+	-fx-border-color: #FF9800;
+}
+
+.passwordField {
+	-fx-background-radius: 0;
+	-fx-border-color: #FF9800;
+}
+
+.labelTitle {
+	-fx-font-size: 25;
+	-fx-font-weight: bold;
+	-fx-font-family: Helvetia;
+}
+
+.labelWindowTitle {
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+	-fx-font-family: Helvetia;
+}
+
+.labelLogin {
+	-fx-font-weight: bold;
+}

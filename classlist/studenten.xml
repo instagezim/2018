@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Studenten>
+    <Student>
+        <matrikelnummer>MNR1</matrikelnummer>
+        <nachname>Brun</nachname>
+        <vorname>Marcel</vorname>
+        <adresse>Stirnrütistrasse 1</adresse>
+        <plz>6048</plz>
+        <ort>Horw</ort>
+        <telefon>0791110101</telefon>
+        <mail>brun.marcel@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR3</matrikelnummer>
+        <nachname>Grüter</nachname>
+        <vorname>Julien</vorname>
+        <adresse>Zückestrasse 3</adresse>
+        <plz>6017</plz>
+        <ort>Ruswil</ort>
+        <telefon>0793330303</telefon>
+        <mail>grueter.julien@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR4</matrikelnummer>
+        <nachname>Grütter</nachname>
+        <vorname>Nicola</vorname>
+        <adresse>Einschlagstrasse 4</adresse>
+        <plz>4622</plz>
+        <ort>Egerkingen</ort>
+        <telefon>0794440404</telefon>
+        <mail>gruetter.nicola@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR5</matrikelnummer>
+        <nachname>Heer</nachname>
+        <vorname>Daniel</vorname>
+        <adresse>Stirnrütistrasse 5</adresse>
+        <plz>5036</plz>
+        <ort>Oberentfelden</ort>
+        <telefon>0795550505</telefon>
+        <mail>heer.daniel@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR6</matrikelnummer>
+        <nachname>Krause</nachname>
+        <vorname>Alexander</vorname>
+        <adresse>Bergstrasse 46</adresse>
+        <plz>79539</plz>
+        <ort>Lörrach</ort>
+        <telefon>0796660606</telefon>
+        <mail>krause.alexander@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR7</matrikelnummer>
+        <nachname>Lehmann</nachname>
+        <vorname>Thomas</vorname>
+        <adresse>Hardstrasse 15</adresse>
+        <plz>4656</plz>
+        <ort>Starrkirch-Wil</ort>
+        <telefon>0797770707</telefon>
+        <mail>lehmann.thomas@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR8</matrikelnummer>
+        <nachname>Leienbach</nachname>
+        <vorname>Nikole</vorname>
+        <adresse>Speisestrasse 4</adresse>
+        <plz>4600</plz>
+        <ort>Olten</ort>
+        <telefon>0798880808</telefon>
+        <mail>leienbach.nikole@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR9</matrikelnummer>
+        <nachname>Misteli</nachname>
+        <vorname>Jens</vorname>
+        <adresse>Mittelgäustrasse 1</adresse>
+        <plz>4613</plz>
+        <ort>Rickenbach</ort>
+        <telefon>0799990909</telefon>
+        <mail>misteli.jens@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR11</matrikelnummer>
+        <nachname>Probst</nachname>
+        <vorname>Sandra</vorname>
+        <adresse>Haupstrasse 11</adresse>
+        <plz>4600</plz>
+        <ort>Olten</ort>
+        <telefon>0791111111</telefon>
+        <mail>probst.sandra@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR12</matrikelnummer>
+        <nachname>Schürch</nachname>
+        <vorname>Remo</vorname>
+        <adresse>Eichstrasse 17</adresse>
+        <plz>6330</plz>
+        <ort>Cham</ort>
+        <telefon>0791211212</telefon>
+        <mail>schuerch.remo@teko.ch</mail>
+    </Student>
+    <Student>
+        <matrikelnummer>MNR13</matrikelnummer>
+        <nachname>Ün</nachname>
+        <vorname>Petrus</vorname>
+        <adresse>Bannstrasse 10</adresse>
+        <plz>4632</plz>
+        <ort>Trimbach</ort>
+        <telefon>0791311313</telefon>
+        <mail>uen.petrus@teko.ch</mail>
+    </Student>
+</Studenten>
